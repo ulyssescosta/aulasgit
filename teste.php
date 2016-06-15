@@ -1,1 +1,1 @@
-<? echo 'Pagina Teste com defeito, será?'; ?>
+<?php echo "Arquivo Teste faz parte do branch 'funcionalidades1'." ?>

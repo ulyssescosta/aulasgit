@@ -1,1 +1,1 @@
-<?php echo 'Teste 2 realizado com sucesso!!'; ?>
+<?php echo "Arquivo Teste 2 faz parte do branch 'funcionalidades', junto com o arquivo Teste"; ?>
