@@ -6,25 +6,21 @@ Arquivo de teste git do Uly!
 
 
 
-Atualizando arquivo git do Uly...
+Lista de arquivos e seus branchs...
+
+	Arquivo		-	Branch
+_________________________________________
+1. 	uly.txt 	- 	master
+
+2. 	arquivo.txt 	- 	master
+
+3. 	teste.php	- 	funcionalidade1
+
+4.	teste2.php	-	funcionalidade1
+
+5.	teste3.php	-	funcionalidade2
 
 
+Arquivo uly.txt atualizado com sucesso!
 
-...
-
-
-...
-
-
-...
-
-
-...
-
-
-...
-
-
-
-
-Arquivo atualizado com sucesso!
+Ultima atualização: 15/06/2016 03:47
